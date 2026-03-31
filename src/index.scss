@@ -1,12 +1,35 @@
+@import './assets/styles/initialstyles.scss';
+@import './assets/styles/variables.scss';
+
+@font-face{
+  font-family: 'Monts_B';
+  src: ('./assets/fonts/Montserrat/Montserrat-Black.ttf') format('ttf');
+}
+
+@font-face{
+  font-family: 'Monts_M';
+  src: ('./assets/fonts/Montserrat/Montserrat-Medium.ttf') format('ttf');
+}
+
+@font-face{
+  font-family: 'Rubil_B';
+  src: ('./assets/fonts/Rubik/Rubik-Black.ttf') format('ttf');
+}
+
+@font-face{
+  font-family: '';
+  src: ('./assets/fonts/Rubik/Rubik-Regular.ttf') format('ttf');
+}
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  width: 100vw;
+  background-color: #212121;
+  color: #fff;
+  font-family: 'Monts_B';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
+/* стиль применяется на итоговой странице — но только к содержимому тега <code>.*/
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
