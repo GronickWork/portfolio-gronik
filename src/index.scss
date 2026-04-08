@@ -2,29 +2,29 @@
 @import './assets/styles/variables.scss';
 
 @font-face{
-  font-family: 'Monts_B';
-  src: ('./assets/fonts/Montserrat/Montserrat-Black.ttf') format('ttf');
+  font-family: Monts_B;
+  src: url('./assets/fonts/Montserrat/Montserrat-Black.ttf');
 }
 
 @font-face{
-  font-family: 'Monts_M';
-  src: ('./assets/fonts/Montserrat/Montserrat-Medium.ttf') format('ttf');
+  font-family: Monts_M;
+  src: url('./assets/fonts/Montserrat/Montserrat-Medium.ttf');
 }
 
 @font-face{
-  font-family: 'Rubil_B';
-  src: ('./assets/fonts/Rubik/Rubik-Black.ttf') format('ttf');
+  font-family: Rubik_B;
+  src: url('./assets/fonts/Rubik/Rubik-Black.ttf');
 }
 
 @font-face{
-  font-family: '';
-  src: ('./assets/fonts/Rubik/Rubik-Regular.ttf') format('ttf');
+  font-family: Rubik_R;
+  src: url('./assets/fonts/Rubik/Rubik-Regular.ttf');
 }
 body {
   width: 100vw;
   background-color: #212121;
   color: #fff;
-  font-family: 'Monts_B';
+  font-family: Monts_B;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
