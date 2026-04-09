@@ -1,4 +1,4 @@
-import './Sangwich.scss';
+import './Sandwich.scss';
 
 export function Sandwich() {
   const lines = [];
