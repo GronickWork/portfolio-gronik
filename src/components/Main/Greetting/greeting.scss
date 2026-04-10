@@ -1,0 +1,13 @@
+@import '../../../assets/styles/variables.scss';
+
+.greeting {display: flex; margin: 1.5rem auto;}
+  .greet_photo {
+    max-width: 36.25rem; 
+    margin: 0 5rem 1rem 0;
+  }
+  .greet_content {margin: auto; text-align: left; font-family: $RR;}
+    .greet_content h2 {font-size: 2.75rem; margin-bottom: 1.5rem;}
+    .greet_content h3 {font-size: 1.39rem;}
+    .greet_content p {font-size: 1.1rem; max-width: 35rem; margin-bottom: 4rem;}
+    .greet_content p a{text-decoration: none; color: #fff; font-size: 1.5rem;}
+    .greet_content p a:hover {color: #dade1eff;}

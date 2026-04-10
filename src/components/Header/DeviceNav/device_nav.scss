@@ -1,0 +1,19 @@
+@import '../../../assets/styles/variables.scss';
+
+.dev_nav {display: none;}
+@media (max-width: 910px) {
+  .dev_nav_ul {
+    list-style-type: none;
+    width: 12rem;
+    background-color: #095341ff;
+    position: fixed;
+    top: 7.5rem;
+    right: 2%;
+    text-align: center;
+    padding: 1rem 0;
+    border-radius: 5px;
+    font-family: $MsM;
+    font-size: 1.1rem;
+  }
+    .ul_item {margin: 1rem auto; font-size: 1.3rem;}
+}

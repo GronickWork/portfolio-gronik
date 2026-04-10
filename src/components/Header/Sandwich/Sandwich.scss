@@ -7,3 +7,9 @@
     background-color: #fff;
     margin: 5px;
   }
+.sandwich:hover {outline: 1px solid #dade1eff;}
+.sandwich:hover .b1{background-color: #dade1eff; cursor: pointer;}
+
+@media (max-width: 910px) {
+  .sandwich {display: block; position: absolute; right: 2%;}
+}

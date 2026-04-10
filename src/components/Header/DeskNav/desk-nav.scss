@@ -1,0 +1,23 @@
+@import '../../../assets/styles/variables.scss';
+
+.desk_nav {display: block;}
+  .nav_desk_ul {
+    max-width: 37rem;
+    display: flex;
+    justify-content: end; 
+    list-style-type: none; 
+    font-size: 1.1rem;
+    margin: auto;
+    font-family: $MsM;
+  }
+    .ul_item {margin: auto 1.1rem;}
+    .ul_item:last-child {margin-right: 0;}
+
+@media (max-width: 1060px) {
+  .ul_item {margin: auto 0.5rem;}
+}
+
+@media (max-width: 910px) {
+  .desk_nav {display: none;}
+  .ul_item {margin: 1rem auto; font-size: 1.3rem;}
+}

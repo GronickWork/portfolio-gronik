@@ -1,4 +1,4 @@
-export const dataNav = [
+const dataNav = [
   {
     link: '#port',
     name: 'Портфолио'
@@ -19,4 +19,6 @@ export const dataNav = [
     link: '#footer',
     name: 'Контакты'
   }, 
-]
+];
+
+export const DataNav  = dataNav.map((el, index) => {return(<li className='ul_item' key={index}><a href={el.link}>{el.name}</a></li>)})
