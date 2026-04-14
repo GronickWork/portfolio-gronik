@@ -1,8 +1,12 @@
 import React from "react";
 import './line.scss';
 
-export default function Line(props: string) {
+interface MarkLine {
+  idl: string,
+}
+
+export default function Line({idl}: MarkLine) {
   return (
-    <div className="line" id={props}></div>
+    <div className="line" id={idl}></div>
   )
 }
