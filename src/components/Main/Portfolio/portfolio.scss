@@ -1,0 +1,25 @@
+@import '../../../assets/styles/variables.scss';
+
+.portpholio {width: 100%;}
+  .port_head {font-size: 3.125rem; margin: 3rem auto; font-family: $RR;}
+  .port_label {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    list-style-type: none;
+  }
+    .label_item {margin: 1rem auto;}
+    .label_item a :hover {outline: 1px solid #dade1eff;}
+    .portfo_butt {
+      display: block;
+      border: none;
+      width: 18rem;
+      height: 4rem;
+      border: 2px solid #fff;
+      background-color: #212121;
+      color: #fff;
+      font-family: $RR;
+      font-size: 1.2rem;
+      margin: 2.5rem auto 4rem;
+      cursor: pointer;
+    }

@@ -19,6 +19,7 @@ ul li{list-style: none;}
 img{vertical-align: top;}
 h1,h2,h3,h4,h5,h6{font-size:inherit;}
 button{background-color: transparent;}
+button:hover{border: 2px solid #dade1eff; color: #dade1eff; cursor: pointer;}
 strong{font-family: Inter_bold;}
 
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */

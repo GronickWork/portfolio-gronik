@@ -2,7 +2,7 @@ import React from 'react';
 import './main.scss';
 import Greeting from './Greetting/Greeting';
 import Line from '../Line/Line';
-import Portfolio from './Portfolio/Portfolio';
+import Portfolio from './Portfolio/Porfolio';
 
 const Main = () => {
   return (
@@ -10,6 +10,7 @@ const Main = () => {
       <Greeting/>
       <Line idl="port"/>
       <Portfolio/>
+      <Line idl='serv'/>
     </div>
   );
 }
