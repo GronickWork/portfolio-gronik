@@ -11,10 +11,11 @@ const Portfolio = () => {
       const el = document.getElementById(idEl);
       if (el?.hasAttribute('hidden')) {
         el.removeAttribute('hidden');
+        e.target.innerHTML = 'Скрыть';
       } else {
         el?.setAttribute('hidden', 'hidden');
+        e.target.innerHTML = 'Показать все проекты';
       }
-       e.target.innerHTML = e.target.innerHTML ==='Все проекты'? 'Скрыть': 'Все проекты';
     }
   }
   return (
@@ -23,11 +24,11 @@ const Portfolio = () => {
       <ul className='port_label' id='portUl'>
         {PortfolioList.map((el, index) => {
           const hidd = index > 2;
-          return(<li className='label_item' id={hidd? el.name: undefined} data-name={hidd? el.name: undefined} hidden={hidd}>
+          return(<li key={index} className='label_item' id={hidd? el.name: undefined} data-name={hidd? el.name: undefined} hidden={hidd}>
               <a href={el.link} target='blank'><img src={el.img} alt={el.alt}/></a>
             </li>);
         })}
-        <button className='portfo_butt' id='portbut' onClick={(e)=>showWorks(e)}>Все проекты</button>
+        <button className='portfo_butt' id='portbut' onClick={(e)=>showWorks(e)}>Показать все проекты</button>
       </ul>
     </div>
   );

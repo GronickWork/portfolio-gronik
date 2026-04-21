@@ -42,33 +42,27 @@ export const PortfolioList = [
     name: 'gg'
   },
   {
-    link: 'https://github.com/Gronik4/WebDevDiplomaV1',
-    img: 'images/works/dip.png',
-    alt: 'Дипломная работа Веб разработчик с нуля',
-    name: 'crud'
+    link: 'https://gronik4.github.io/react6.1httpw.c/',
+    img: 'images/works/wc.png',
+    alt: 'одно из домашних заданий',
+    name: 'wc'
   },
   {
-    link: 'https://github.com/Gronik4/WebDevDiplomaV1',
-    img: 'images/works/dip.png',
-    alt: 'Дипломная работа Веб разработчик с нуля',
-    name: 'crud'
+    link: 'https://gronickwork.github.io/netinprogram/',
+    img: 'images/works/StartProg.png',
+    alt: 'Курсовая по курсу введение в программирование',
+    name: 'prog'
   },
   {
-    link: 'https://github.com/Gronik4/WebDevDiplomaV1',
-    img: 'images/works/dip.png',
-    alt: 'Дипломная работа Веб разработчик с нуля',
-    name: 'crud'
+    link: 'https://gronickwork.github.io/nyadaptive/',
+    img: 'images/works/netologi.png',
+    alt: 'Лейбл сайта от Нетология',
+    name: 'adaptive'
   },
   {
-    link: 'https://github.com/Gronik4/WebDevDiplomaV1',
-    img: 'images/works/dip.png',
-    alt: 'Дипломная работа Веб разработчик с нуля',
-    name: 'crud'
-  },
-  {
-    link: 'https://github.com/Gronik4/WebDevDiplomaV1',
-    img: 'images/works/dip.png',
-    alt: 'Дипломная работа Веб разработчик с нуля',
-    name: 'crud'
+    link: 'https://cocky-nightingale-31f817.netlify.app',
+    img: 'images/works/stepikOrg.png',
+    alt: 'Курсовая работа по курсу stepikOrg',
+    name: 'uber'
   },
 ]
