@@ -1,0 +1,8 @@
+@import '../../../assets/styles/variables.scss';
+@import '../../../assets/styles/mixins.scss';
+
+.reviews {width: 100%; margin: 3rem auto 2rem;}
+  .rev_head {@include head;}
+  .port_label {@include port_label;}
+    .rev_content_item img {width: 20vw;}
+    .rev_content_item img:hover {cursor: pointer; border: 2px solid #dade1eff;}

@@ -1,0 +1,15 @@
+@mixin head {
+  width: max-content;
+  font-size: 1.3rem; 
+  text-transform: uppercase; 
+  font-family:$RR;
+  font-weight: 900;
+  margin: 0 auto 3rem;
+}
+
+@mixin port_label {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  list-style-type: none;
+}

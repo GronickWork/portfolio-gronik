@@ -1,0 +1,23 @@
+@import '../../../assets/styles/variables.scss';
+.services {
+  width: 100%; 
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 3rem auto 2rem;
+}
+  .serv_head { font-size: 2rem; text-transform: uppercase; font-family: $RR;}
+  .serv_content {width: 38rem; font-family: $MsM;}
+  .serv_content_item {font-size: 1.5rem; margin: 0 auto 2.5rem;}
+
+@media (max-width: 910px) {.serv_head {font-size: 1.3rem;}}
+
+@media (max-width: 868px) {
+  .services {width: 85vw; text-align: center;}
+  .serv_content_item {font-size: 1rem;}
+}
+
+@media (max-width: 809px) {
+        .serv_head {width: 9rem; margin: 0 auto 1rem;}
+        .serv_content {width: 90vw; margin: auto;}
+    }
