@@ -32,3 +32,6 @@
     background-image: url("../../../public/images/sertificates/sololearn/sololearnHTML.png");
     margin: 1% auto;
   }
+
+@media (max-width: 910px) {.show_sertificate {width: 70vw; height: 56vw; left: 15vw;}}
+@media(max-width: 677px) {.show_sertificate {width: 90vw; height: 80vw; left: 3vw;}}

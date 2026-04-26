@@ -1,0 +1,21 @@
+@import '../../../../assets/styles/variables.scss';
+
+.sr-style {
+  width: 100%; 
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 3rem auto 2rem;
+  align-items: center;
+  font-family: $MsM;
+}
+  .sr-style_head {width: 11rem; font-size: 1.3rem;}
+  .sr-style_content {font-size: 1.1rem; text-align: right;}
+    .sr-style_content p {margin-bottom: 1.5rem;}
+    .sr-style_content p:hover {color: #dade1eff; cursor: pointer; text-decoration: underline;}
+    .hr {height: 2px; background-color: #fff; color: #fff;}
+
+@media(max-width: 677px) {
+  .sr-style_head {margin: 0 auto 2rem;}
+  .sr-style_content{margin: auto; text-align: center;}
+}

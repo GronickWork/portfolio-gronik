@@ -3,6 +3,7 @@ import './App.scss';
 import Header from './components/Header/Header';
 import Main from './components/Main/Main';
 import ShowSert from './components/ShowSert/ShowSert';
+import Footer from './components/footer/Footer';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Header/>
       <ShowSert/>
       <Main/>
+      <Footer/>
     </div>
   );
 }

@@ -1,0 +1,23 @@
+.footer_ul {
+  display: flex;
+  width: 20rem;
+  list-style-type: none;
+  margin: 3.7rem auto;
+}
+  .footer_ul_item {margin: 0 2.5%;}
+  .footer_ul_item a {text-decoration: none; color: #fff;}
+    .foot_link {
+      display: block;
+      width: 3rem;
+      height: 3rem;
+      background-repeat: no-repeat;
+      background-size: 3rem;
+      background-position: center;
+    }
+    .foot_link:hover {width: 3.2rem; height: 3.2rem; background-size: 3.2rem;}
+      .foot_link_text {
+        position:absolute;
+        width:1px;
+        height:1px;
+        clip:rect(1px,1px,1px,1px);
+      }

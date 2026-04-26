@@ -1,0 +1,10 @@
+@import '../../../assets/styles/mixins.scss';
+@import '../../../assets/styles/variables.scss';
+
+.certificates {@include sert-rev;}
+  .cert_head {@include head;}
+
+@media (max-width: 868px) {
+    .certificates {width: 90%;}
+      .cert_head {width: 15rem; font-size: 1rem; text-align: center;}
+  }
