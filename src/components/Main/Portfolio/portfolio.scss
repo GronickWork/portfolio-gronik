@@ -1,19 +1,15 @@
 @import '../../../assets/styles/variables.scss';
+@import '../../../assets/styles/mixins.scss';
 
 .portpholio {width: 100%;}
   .port_head {font-size: 3.125rem; margin: 3rem auto; font-family: $RR;}
-  .port_label {
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-    list-style-type: none;
-  }
+  .port_label {@include port_label;}
     .label_item {margin: 1rem auto;}
     .label_item a :hover {outline: 1px solid #dade1eff;}
     .portfo_butt {
       display: block;
       border: none;
-      width: 18rem;
+      width: 21.875rem;
       height: 4rem;
       border: 2px solid #fff;
       background-color: #212121;
