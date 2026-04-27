@@ -4,6 +4,7 @@ import Header from './components/Header/Header';
 import Main from './components/Main/Main';
 import ShowSert from './components/ShowSert/ShowSert';
 import Footer from './components/footer/Footer';
+import ButtonTop from './components/button-top/Button_top';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <ShowSert/>
       <Main/>
       <Footer/>
+      <ButtonTop/>
     </div>
   );
 }

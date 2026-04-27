@@ -1,0 +1,12 @@
+.button_top {position: fixed; right: 1.5rem; bottom: 3.5rem;}
+  .but_top {
+    display: block;
+    width: 3rem;
+    height: 3rem;
+    //background-image: url("images/svg/arrowTop.svg"); В React так не работает!!! Нужно добавлять в компонент
+    // style={{backgroundImage: `url(${....})`}}
+    background-repeat: no-repeat;
+    background-size: 3rem;
+    background-position: center; 
+  }
+  .but_top:hover {width: 3.2rem; height: 3.2rem; background-size: 3.2rem;}                                                 
