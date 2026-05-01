@@ -12,7 +12,7 @@
 Со мной можно связаться по почте: gronweb@yandex.ru и golegni@yandex.ru  
 по телефону: +7 906 364 30 28  
 или в соцсетях:  
-[![max](forReadme/Max.svg)](https://max.ru/u/f9LHodD0cOK8mtQPAmBzWfN9FzHkRdtagdmJr301vWKYrvlZfClmI6y8z-0) | [![Однокласники](forReadme/OdnoklassnikiR.svg)](https://ok.ru/oleg.grechishnikov) | [![Вконтакте](forReadme/VK.comR.svg)](https://vk.com/id135137484)
+[![max](forReadme/MAX.svg)](https://max.ru/u/f9LHodD0cOK8mtQPAmBzWfN9FzHkRdtagdmJr301vWKYrvlZfClmI6y8z-0) | [![Однокласники](forReadme/OdnoklassnikiR.svg)](https://ok.ru/oleg.grechishnikov) | [![Вконтакте](forReadme/VK.comR.svg)](https://vk.com/id135137484)
 -------------|----------------|-------------------
 
 
