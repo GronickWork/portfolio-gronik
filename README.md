@@ -12,7 +12,7 @@
 Со мной можно связаться по почте: gronweb@yandex.ru и golegni@yandex.ru  
 по телефону: +7 906 364 30 28  
 или в соцсетях:  
-![max](assets/forReadme/Max.svg) 
+![max](forReadme/Max.svg) 
 
 
 Портфолио будет поплнятся по мере приоретения мной новых знаний и навыков.
