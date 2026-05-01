@@ -1,14 +1,1 @@
-<header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+[![Max](forReadme/MAX.svg)](https://max.ru/u/f9LHodD0cOK8mtQPAmBzWfN9FzHkRdtagdmJr301vWKYrvlZfClmI6y8z-0) | [![Однокласники](svg/forReadme/OdnoklassnikiR.svg)](https://ok.ru/oleg.grechishnikov) | [![Вконтакте](svg/forReadme/VK.comR.svg)](https://vk.com/id135137484)
