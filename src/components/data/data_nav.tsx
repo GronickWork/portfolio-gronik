@@ -1,22 +1,22 @@
 export const dataNav = [
   {
-    link: '#port',
+    link: 'port',
     name: 'Портфолио'
   },
   {
-    link: '#serv',
+    link: 'serv',
     name: 'Услуги'
   },
   {
-    link: '#rev',
+    link: 'rev',
     name: 'Отзывы'
   },
  {
-    link: '#sert',
+    link: 'sert',
     name: 'Сертификаты'
   },
   {
-    link: '#footer',
+    link: 'footer',
     name: 'Контакты'
   }, 
 ];
