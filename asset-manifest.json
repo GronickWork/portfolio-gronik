@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio-gronik/static/css/main.fab8e4c0.css",
+    "main.js": "/portfolio-gronik/static/js/main.3fe2fd32.js",
+    "static/js/453.51fdffdb.chunk.js": "/portfolio-gronik/static/js/453.51fdffdb.chunk.js",
+    "static/media/sololearnHTML.png": "/portfolio-gronik/static/media/sololearnHTML.e20bb1832c523be41af5.png",
+    "static/media/Montserrat-Black.ttf": "/portfolio-gronik/static/media/Montserrat-Black.d183778d7a85c90654b5.ttf",
+    "static/media/Montserrat-Medium.ttf": "/portfolio-gronik/static/media/Montserrat-Medium.8a192d248fca1175abd8.ttf",
+    "static/media/Rubik-Regular.ttf": "/portfolio-gronik/static/media/Rubik-Regular.0f56ab0b295fd9fca620.ttf",
+    "static/media/Rubik-Black.ttf": "/portfolio-gronik/static/media/Rubik-Black.cd53051b6608d8737fa2.ttf",
+    "index.html": "/portfolio-gronik/index.html",
+    "main.fab8e4c0.css.map": "/portfolio-gronik/static/css/main.fab8e4c0.css.map",
+    "main.3fe2fd32.js.map": "/portfolio-gronik/static/js/main.3fe2fd32.js.map",
+    "453.51fdffdb.chunk.js.map": "/portfolio-gronik/static/js/453.51fdffdb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fab8e4c0.css",
+    "static/js/main.3fe2fd32.js"
+  ]
+}
