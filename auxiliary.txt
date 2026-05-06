@@ -1,1 +1,3 @@
-[![Max](forReadme/MAX.svg)](https://max.ru/u/f9LHodD0cOK8mtQPAmBzWfN9FzHkRdtagdmJr301vWKYrvlZfClmI6y8z-0) | [![Однокласники](svg/forReadme/OdnoklassnikiR.svg)](https://ok.ru/oleg.grechishnikov) | [![Вконтакте](svg/forReadme/VK.comR.svg)](https://vk.com/id135137484)
+Долго не мог развернуть проект на GitHub!!!
+Не появлялась веткаgh-pages....
+Помогло - исправил в psckage.json: "deploy": "gh-pages -d build"
