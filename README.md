@@ -5,7 +5,7 @@
 
 ## Портфолио и сертификаты
 
-Все мои работы и сертификаты Вы увидите [здесь]( https://gronickwork.github.io/PortfolioGronik/)  
+Все мои работы и сертификаты Вы увидите [здесь]( hhttps://github.com/GronickWork/portfolio-gronik)  
 Все учебные работы [здесь](https://github.com/Gronik4?tab=repositories)
 
 ## Контакты
