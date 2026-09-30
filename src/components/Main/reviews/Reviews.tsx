@@ -1,5 +1,6 @@
 import React from 'react';
 import './reviews.scss';
+import Rev from '../../../assets/images/reviews/cleanEnv.png'
 
 const Reviews = () => {
   function changeSize(e: any) {
@@ -16,7 +17,7 @@ const Reviews = () => {
     <div className='reviews'>
       <h2 className='rev_head'>Отзывы заказчиков</h2>
       <ul className='port_label'>
-        <li className='rev_content_item' onClick={(e)=> changeSize(e)}><img src='images/reviews/cleanEnv.png' alt='отзыв1'  data-size="sm"></img></li>
+        <li className='rev_content_item' onClick={(e)=> changeSize(e)}><img src={Rev} alt='отзыв1'  data-size="sm"></img></li>
       </ul>
     </div>
   );
