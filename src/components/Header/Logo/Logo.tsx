@@ -8,7 +8,7 @@ You can set `throwIfNamespace: false` to bypass this warning.
 import './logo.scss';
 
 export default function Logo() {
-  const imgLogo = 'portfolio-gronik/images/logo_file.svg';
+  const imgLogo = `${process.env.PUBLIC_URL}/images/logo_file.svg`;
   return (
     <div className="logo">
       <img src={imgLogo} alt="Логотип"/>
