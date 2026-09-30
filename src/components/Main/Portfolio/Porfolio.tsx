@@ -1,4 +1,3 @@
-import React from 'react';
 import { PortfolioList } from '../../data/portfolio-list';
 import './portfolio.scss';
 
@@ -25,7 +24,7 @@ const Portfolio = () => {
         {PortfolioList.map((el, index) => {
           const hidd = index > 2;
           return(<li key={index} className='label_item' id={hidd? el.name: undefined} data-name={hidd? el.name: undefined} hidden={hidd}>
-              <a href={el.link} target='blank'><img src={el.img} alt={el.alt}/></a>
+              <a href={el.link} target='_blank' rel="noreferrer"><img src={el.img} alt={el.alt}/></a>
             </li>);
         })}
         <button className='portfo_butt' id='portbut' onClick={(e)=>showWorks(e)}>Показать все проекты</button>

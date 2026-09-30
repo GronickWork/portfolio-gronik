@@ -1,10 +1,10 @@
-import React from 'react';
 import './greeting.scss';
+import MyFoto from '../../../assets/images/works/myf.png';
 
 const Greeting = () => {
   return (
     <div className='greeting'>
-      <div className='greet_photo'><img src='images/works/myf.png' alt='Моё фото'></img></div>
+      <div className='greet_photo'><img src={MyFoto} alt='Моё фото'></img></div>
       <div className='greet_content'>
         <h2>Выполняю:</h2>
         <h3> - адаптивную верстку сайтов по макетам из Figma и Photopea</h3>

@@ -36,7 +36,7 @@ const ButtonTop = () => {
       ref={btnRef}
       onClick={(e)=> smoothlyTop(e)}
     >
-      <a href='#top' className='but_top' style={{backgroundImage: `url(images/svg/arrowTop.svg)`}}> </a>
+      <a href='#top' className='but_top' style={{backgroundImage: `url(portfolio-gronik/images/arrowTop.svg)`}}> </a>
     </div>
   );
 }
