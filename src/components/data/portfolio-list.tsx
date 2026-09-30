@@ -1,15 +1,15 @@
 export const PortfolioList = [
   {
-    link: 'https://github.com/Gronik4/WebDevDiplomaV1',
-    img: 'images/works/dip.png',
-    alt: 'Дипломная работа Веб разработчик с нуля',
-    name: 'dipWW'
+    link: 'https://github.com/GronickWork/hotel-aggregator_portfolio-demo.git',
+    img: '/images/works/node_demo.png',
+    alt: 'Дипломная работа за курс Node.js для backend-разработки',
+    name: 'dipNode'
   },
   {
-    link: 'https://github.com/Gronik4/graduation-project_backend-development-with-node.js.git',
-    img: 'images/works/d-node.png',
-    alt: 'Дипломная работа Веб разработчик с нуля',
-    name: 'dipNode'
+    link: 'https://github.com/Gronik4/WebDevDiplomaV1',
+    img: 'images/works/dip.png',
+    alt: 'Дипломная работа Веб-разработчик с нуля',
+    name: 'dipWW'
   },
   {
     link: 'https://trash-free.ru',
