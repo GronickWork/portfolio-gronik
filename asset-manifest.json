@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-gronik/static/css/main.fab8e4c0.css",
-    "main.js": "/portfolio-gronik/static/js/main.e3cd6182.js",
+    "main.js": "/portfolio-gronik/static/js/main.550e77b9.js",
     "static/js/453.51fdffdb.chunk.js": "/portfolio-gronik/static/js/453.51fdffdb.chunk.js",
     "static/media/sertNode.png": "/portfolio-gronik/static/media/sertNode.8daae68c4c7e4dbad0bf.png",
     "static/media/diplom.png": "/portfolio-gronik/static/media/diplom.fce2232cd96399379c6c.png",
@@ -10,6 +10,7 @@
     "static/media/sololearnHTML.png": "/portfolio-gronik/static/media/sololearnHTML.e20bb1832c523be41af5.png",
     "static/media/sololearnSQL.png": "/portfolio-gronik/static/media/sololearnSQL.a74d2a1c540976ae1bad.png",
     "static/media/sololearnPHP.png": "/portfolio-gronik/static/media/sololearnPHP.f621e868ab09132b4d28.png",
+    "static/media/cleanEnv.png": "/portfolio-gronik/static/media/cleanEnv.e3f073e10567ca5eb55e.png",
     "static/media/netAjs.png": "/portfolio-gronik/static/media/netAjs.a521641e478c41e50f63.png",
     "static/media/Montserrat-Black.ttf": "/portfolio-gronik/static/media/Montserrat-Black.d183778d7a85c90654b5.ttf",
     "static/media/netBjsB.png": "/portfolio-gronik/static/media/netBjsB.5f331be4877f9d9c9c11.png",
@@ -40,11 +41,11 @@
     "static/media/stepikOrg.png": "/portfolio-gronik/static/media/stepikOrg.c29f9600ab2770f35766.png",
     "index.html": "/portfolio-gronik/index.html",
     "main.fab8e4c0.css.map": "/portfolio-gronik/static/css/main.fab8e4c0.css.map",
-    "main.e3cd6182.js.map": "/portfolio-gronik/static/js/main.e3cd6182.js.map",
+    "main.550e77b9.js.map": "/portfolio-gronik/static/js/main.550e77b9.js.map",
     "453.51fdffdb.chunk.js.map": "/portfolio-gronik/static/js/453.51fdffdb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fab8e4c0.css",
-    "static/js/main.e3cd6182.js"
+    "static/js/main.550e77b9.js"
   ]
 }
